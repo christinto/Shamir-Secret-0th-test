@@ -11,8 +11,8 @@ import string
 from six import integer_types
 from utilitybelt import int_to_charset, charset_to_int, base58_chars, \
     base32_chars, zbase32_chars
-from .primes import get_large_enough_prime
-from .polynomials import random_polynomial, \
+from primes import get_large_enough_prime
+from polynomials import random_polynomial, \
     get_polynomial_points, modular_lagrange_interpolation
 
 
