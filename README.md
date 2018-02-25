@@ -2,7 +2,7 @@ Secret Sharing Tests
 =============
 
 [![PyPI](https://img.shields.io/pypi/l/secretsharing.svg)](https://github.com/Tenzorum/Shamir-Secret-0th-test/blob/master/LICENSE)
-[![Tenzorum Website]()](https://tenzorum.org/)
+[Tenzorum Website](https://tenzorum.org/)
 
 A command line PoC for sharding and sharing secrets (e.g. Ethereum, bitcoin or traditional login keys), using Shamir-Secret sharing scheme.
 
