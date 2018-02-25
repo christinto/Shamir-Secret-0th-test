@@ -7,8 +7,8 @@ Secret Sharing Tests
 A command line PoC for sharding and sharing secrets (e.g. Ethereum, bitcoin or traditional login keys), using Shamir-Secret sharing scheme.
 
 ## Installation
-Before installing you'd need to make sure you have pip and untility belt installed:
-* Open terminal, then install pip and utilitibelt
+Before installing you'd need to make sure you have pip and utility belt installed:
+* Open terminal, then install pip and utilitybelt
 ##  
     >>> sudo easy_install pip
     >>> sudo pip install utilitybelt
